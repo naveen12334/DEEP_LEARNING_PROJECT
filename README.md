@@ -1,4 +1,4 @@
-# deep Classifier project
+##IMAGE CLASSIFICATION DEEP LEARNING PROJECT
 
 ## workflow
 
